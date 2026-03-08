@@ -33,29 +33,58 @@ This project demonstrates mobile development skills including **form handling, l
 
 # 📸 Screenshots
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<b>Welcome Screen</b><br>
+<img src="screenshots/Welcome_Screen.jpeg" width="230"/>
+</td>
 
-<img src="screenshots/Welcome_Screen.jpeg" width="250"/>
-<img src="screenshots/SignIn.jpeg" width="250"/>
-<img src="screenshots/SignUp.jpeg" width="250"/>
+<td align="center">
+<b>Sign In</b><br>
+<img src="screenshots/SignIn.jpeg" width="230"/>
+</td>
 
-</p>
+<td align="center">
+<b>Sign Up</b><br>
+<img src="screenshots/SignUp.jpeg" width="230"/>
+</td>
+</tr>
 
-<p align="center">
+<tr>
+<td align="center">
+<b>Dashboard</b><br>
+<img src="screenshots/Dashboard.jpeg" width="230"/>
+</td>
 
-<img src="screenshots/Dashboard.jpeg" width="250"/>
-<img src="screenshots/Add_Student.png" width="250"/>
-<img src="screenshots/Student_List.png" width="250"/>
+<td align="center">
+<b>Add Student</b><br>
+<img src="screenshots/Add_Student.png" width="230"/>
+</td>
 
-</p>
+<td align="center">
+<b>Student List</b><br>
+<img src="screenshots/Student_List.png" width="230"/>
+</td>
+</tr>
 
-<p align="center">
+<tr>
+<td align="center">
+<b>Select Map Location</b><br>
+<img src="screenshots/Select_Map.png" width="230"/>
+</td>
 
-<img src="screenshots/Select_Map.png" width="250"/>
-<img src="screenshots/Map_View.png" width="250"/>
-<img src="screenshots/StudentDetails.png" width="250"/>
+<td align="center">
+<b>Map View</b><br>
+<img src="screenshots/Map_View.png" width="230"/>
+</td>
 
-</p>
+<td align="center">
+<b>Student Details</b><br>
+<img src="screenshots/StudentDetails.png" width="230"/>
+</td>
+</tr>
+</table>
 
 ---
 
