@@ -1,5 +1,7 @@
 # 📱 Student Management App (React Native)
 
+![App Preview](screenshots/StudendApp_Preview.png)
+
 A **Student Management Mobile Application** built with **React Native** that allows users to manage student records, capture student details, and visualize student locations on a map.
 
 This project demonstrates mobile development skills including **form handling, local database usage, location services, and map integration**.
